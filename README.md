@@ -6,9 +6,17 @@ Vue.js Filters and how to create and use them. Vue allows us to define filters t
 
 [![Tutorial on Youtube](http://img.youtube.com/vi/VmaNYKNmRq8/0.jpg)](https://youtu.be/VmaNYKNmRq8)
 
-## 📺 The Complete Playlist
+## 📺 Complete Playlists
 
 [Learn Vue JS - From The Ground Up](https://www.youtube.com/playlist?list=PLINmvGGUwYc3fsN0ba_ZSZE0ywDeS0cd2)
+
+[Learn Vue JS - Additional Libaries](https://www.youtube.com/playlist?list=PLINmvGGUwYc0KrI3N11BCzflF6lEXqR9M)
+
+[Best Vue JS Tips and Tricks](https://www.youtube.com/playlist?list=PLINmvGGUwYc1GHkWFayyTLJXlnssHQEPc)
+
+[Vue JS Animations and Transitions](https://www.youtube.com/playlist?list=PLINmvGGUwYc1qRSE4LMjReEULDE1pa-mS)
+
+[Learn Nuxt JS - From The Ground Up](https://www.youtube.com/playlist?list=PLINmvGGUwYc11ZniENQRU7eQar6gQo04R)
 
 ## Connect with me:
 
@@ -17,7 +25,6 @@ Vue.js Filters and how to create and use them. Vue allows us to define filters t
 [<img align="left" alt="webnoob | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="webnoob | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="webnoob | BuyMeACoffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/buymeacoffee.svg" />][buymeacoffee]
-[<img align="left" alt="webnoob | Patreon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/patreon.svg" />][patreon]
 
 <br>
 <br>
@@ -57,4 +64,3 @@ npm run lint
 [youtube]: https://youtube.com/webnoob
 [instagram]: https://instagram.com/webnoobcodes
 [buymeacoffee]: https://www.buymeacoffee.com/webnoob
-[patreon]: https://www.patreon.com/webnoob
